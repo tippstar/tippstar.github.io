@@ -1,6 +1,6 @@
 var myApp = angular.module("myApp", []);
 
-myApp.controller("TeamCtrl", ['$scope', '$http', '$window',
+myApp.controller("AllTeamsCtrl", ['$scope', '$http', '$window',
     function($scope, $http, $window) {
         $http({
             url: 'http://www.corsproxy.com/footballdb.herokuapp.com/api/v1/event/world.2014/teams',
