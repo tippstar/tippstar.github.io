@@ -23,7 +23,6 @@ myApp.controller("AllTeamsCtrl", ['$scope', '$http', '$window',
             method: "GET"
         }).then(function(response) {
             $scope.teams = response.data;
-            console.log($scope.teams);
         });
     }
 ]);
@@ -35,7 +34,6 @@ myApp.controller("AllRoundsCtrl", ['$scope', '$http', '$window',
             method: "GET"
         }).then(function(response) {
             $scope.rounds = response.data;
-            console.log($scope.rounds);
         });
     }
 ]);
@@ -47,7 +45,6 @@ myApp.controller("AllGamesCtrl", ['$scope', '$http', '$window',
             method: "GET"
         }).then(function(response) {
             $scope.playday = response.data;
-            console.log($scope.playday);
         });
     }
 ]);
