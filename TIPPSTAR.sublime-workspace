@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"route",
+				"angular: $routeProvider"
+			],
+			[
+				"modu",
+				"angular.module"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"overflow",
+				"overflow"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"outfitPro",
+				"outfitProductsNavi"
+			],
+			[
+				"relaxPro",
+				"relaxProducts"
+			],
+			[
+				"brdRight",
+				"brdGreyRight"
+			],
+			[
+				"outfitProduc",
+				"outfitProducts"
+			],
+			[
+				"produc",
+				"product"
+			],
+			[
+				"product",
+				"productDetails"
+			],
+			[
+				"produ",
+				"productDetails"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pro",
+				"productSkus"
+			],
+			[
+				"getS",
+				"getSkuList"
+			],
+			[
+				"relaxProd",
+				"relaxProductSkus"
+			],
+			[
+				"relaxP",
+				"relaxProductSkus"
+			],
+			[
+				"classicPro",
+				"classicProductSkus"
+			],
+			[
+				"rela",
+				"relaxProducts"
+			],
+			[
+				"out",
+				"outfitProductsNavi"
+			],
+			[
+				"border",
+				"borderCheck"
+			],
+			[
+				"brdg",
+				"brdGreyRight"
+			],
+			[
+				"classic",
+				"classicProducts"
+			],
+			[
+				"getsku",
+				"getSkuList"
+			],
+			[
+				"cate",
+				"categoryName"
+			],
+			[
+				"prod",
+				"productIndex"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"random",
+				"randomProduct"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"sku",
+				"skuValues"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"outfit",
+				"outfitAdviseWrapper"
+			],
+			[
+				"fitting",
+				"fitting"
+			],
+			[
+				"anim",
+				"animate	animate"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"fitt",
+				"fittingButton"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"deta",
+				"details"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"det",
+				"details"
+			],
+			[
+				"detail",
+				"detailBox"
+			],
+			[
+				"z-",
+				"z-index"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3635,
+				"line_ending": "Unix",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 1616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/matchday.html",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/teams.html",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/groups.html",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"selected_items":
+		[
+			[
+				"bs3-hea",
+				"Snippet: bs3-page header"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel-heading"
+			],
+			[
+				"col-6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"header",
+				"Snippet: bs3-page header"
+			],
+			[
+				"reset",
+				"Snippet: cssreset"
+			],
+			[
+				"col-12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"container",
+				"Snippet: bs3-container"
+			],
+			[
+				"navbar",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"rester",
+				"RESTer: HTTP Request"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-label"
+			],
+			[
+				"h1",
+				"Snippet: <h1> - <h6>"
+			],
+			[
+				"angular",
+				"Snippet: Angular.js"
+			],
+			[
+				"angular.js",
+				"Snippet: Angular.js"
+			],
+			[
+				"bs cdn",
+				"Snippet: bs3-cdn-css"
+			],
+			[
+				"jumb",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs header",
+				"Snippet: bs3-page header"
+			],
+			[
+				"",
+				"Snippet: htmlboiler"
+			],
+			[
+				"syntax HTML",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"cdn ",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"boiler",
+				"Snippet: htmlboiler"
+			],
+			[
+				"restet",
+				"RESTer: HTTP Request"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"minif",
+				"Minify Javascript"
+			],
+			[
+				"live stye",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"css 3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"minify",
+				"Minify Javascript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"livesty",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"livest",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"clear annot",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"set node pa",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"jslint",
+				"JSLint"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"inst all",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bkramer/Documents/DEV/Tippstar/index.html",
+		"/Users/bkramer/Documents/DEV/FireChat/app/index.html",
+		"/Users/bkramer/Documents/OnSite/offline_test/borderBoxModel-min.js",
+		"/Users/bkramer/Documents/OnSite/offline_test/boxsizing.htc",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bkramer/Documents/OnSite/teaser_test/terminal.glue",
+		"/Users/bkramer/Documents/OnSite/teaser_test/css/lpo-6104-sub-1.css",
+		"/Users/bkramer/Documents/OnSite/teaser_test/js/lpo-6104-sub-1.js",
+		"/Users/bkramer/Documents/OnSite/svn/cms/js/lp/2014-14/lpo-6104-sub-4.js",
+		"/Users/bkramer/Documents/OnSite/svn/cms/css/lp/2014-14/lpo-6104-sub-4.css",
+		"/Users/bkramer/Documents/OnSite/teaser_test/js/lpo-6104-sub-4.js",
+		"/Users/bkramer/Documents/OnSite/teaser_test/css/lpo-6104-sub-4.css",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/JSHint Gutter/.jshintrc",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/JSHint Gutter/Default (OSX).sublime-keymap",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/User/JSLint.sublime-settings",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/Prefixr/readme.creole",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/bkramer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bkramer/Documents/OnSite/offline_test/offline_html.html",
+		"/Users/bkramer/Documents/OnSite/svn-repo/cms/css/lp/2014-14/lpo-6104.css",
+		"/Users/bkramer/Documents/OnSite/svn-repo/cms/js/lp/2014-14/lpo-6104.js",
+		"/Users/bkramer/Documents/OnSite/offline_test/js/lpo-6104.js",
+		"/Users/bkramer/Documents/OnSite/svn/cms/js/lp/2014-14/lpo-6104.js",
+		"/Users/bkramer/Documents/OnSite/offline_test/css/lpo-6104.css",
+		"/Users/bkramer/Documents/OnSite/offline_test/js/offline_js.js",
+		"/Users/bkramer/Documents/OnSite/offline_test/css/offline_css.css",
+		"/Users/bkramer/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sub-teaser",
+			"textbox",
+			"menWrapper",
+			"sub-navi",
+			".js",
+			"sub-navi",
+			".js",
+			"font-family",
+			"h2",
+			"js",
+			".js",
+			"imgWrapper",
+			"imgwrapper",
+			"overflow",
+			"subnavi",
+			"1000",
+			"&gt;",
+			"&lt;",
+			"<br>",
+			"imgwrapper",
+			"<br>",
+			"&gt;",
+			"&lt;",
+			"textCenter",
+			"iconFont",
+			"ctaBordered",
+			"=\"content",
+			".css",
+			".js",
+			"&gt;",
+			"&lt;",
+			".js",
+			"arrow",
+			"brdGre",
+			"outfitnavi",
+			"brdGreyRight",
+			"length",
+			"getProductData",
+			"allProducts",
+			"['",
+			"classicContainer",
+			"getJsonData",
+			"ajax",
+			"menwrapper",
+			".js",
+			"menWrapper",
+			".js",
+			"productSkus",
+			".js",
+			"console.log",
+			"url",
+			"outfitnavi",
+			"child",
+			"last",
+			"\nconsole.log\nconsole.log",
+			"\nconsole.log",
+			"console.log",
+			"menWrapper",
+			"opacity",
+			"rgb",
+			"rgba",
+			"console.log",
+			"getpriceform",
+			"search",
+			"menWrapper",
+			".product",
+			"pBrand",
+			"console.log",
+			"new Array()",
+			"menWrapper",
+			".js",
+			"menWrapper",
+			"skuclassic",
+			"ztat",
+			"search",
+			"loadPageContent",
+			"skuDataList",
+			"menwrapper",
+			"lpo-6104",
+			".css",
+			"menWrapper",
+			"skuCounter\n\n\n\n\n\nskuCounter\nskuCounter\n\n\n\n",
+			"highlight",
+			"arrow",
+			"iconfont",
+			"arrowTop",
+			"console.log",
+			".js",
+			"naviArrow",
+			"arrow",
+			"arrowIE",
+			"arrowie",
+			"outfitnavi",
+			"url(",
+			"outfitAdviseWrapper",
+			"shopnow",
+			"\nshopnow",
+			"shopnow",
+			"hover",
+			":hover",
+			"menWrapper",
+			".js",
+			"../img/",
+			"menWRapper",
+			"img/",
+			"br>",
+			"file://localhost/Users/bkramer/Documents/OnSite/offline_test/",
+			" a",
+			"'a'",
+			"menwrapper",
+			"shopnow",
+			"loosefit",
+			"detailBox",
+			"hidden",
+			"hide",
+			"shopnow",
+			"fittingWrapper",
+			"arimo",
+			"commodities",
+			"fittingWrapper",
+			".js",
+			"offline css",
+			"file:///C:/Users/bkramer/Desktop/offline_test/img/",
+			".jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"790",
+			">",
+			"<",
+			"<br/>",
+			">",
+			"<",
+			">",
+			"<",
+			".",
+			"[]",
+			"http://a1276.ztat.net/lpo/zalando/lp/2014/04/lpo-6104/",
+			"",
+			"http://a1276.ztat.net/lpo/zalando/lp/2014/04/lpo-6104/",
+			"detailBox hidden",
+			"file://localhost/Users/bkramer/Documents/OnSite/offline_test/img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1398,
+								1398
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "<!DOCTYPE html>",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 395.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 1616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								773
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/matchday.html",
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/teams.html",
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/groups.html",
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1277,
+								1277
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 273.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}

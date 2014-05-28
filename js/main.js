@@ -6,14 +6,14 @@ var myApp = angular.module("myApp", []);
 // 		controller: 'AllTeamsCtrl'
 // 	})
 // 	.when('/groups', {
-// 		templateUrl: 'groups.html',
+// 		templateUrl: 'views/groups.html',
 // 		controller: 'AllGroupsCtrl'
 // 	})
-// 	.when('/profile', {
-// 		templateUrl: 'profile.html',
+// 	.when('/matchday', {
+// 		templateUrl: 'views/matchday.html',
 // 		controller: 'ProfileCtrl'
 // 	});
-// 	$routeProvider.otherwise({ redirectTo: '/' });
+// 	$routeProvider.otherwise({ redirectTo: '/error' });
 // });
 
 myApp.controller("AllTeamsCtrl", ['$scope', '$http', '$window',
