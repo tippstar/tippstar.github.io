@@ -7,6 +7,7 @@ myApp.controller("MyCtrl",['$scope','$http','$window',function($scope,$http,$win
     method : "GET"    
   }).then(function(response){
     $scope.data=response.data;
+    console.log($scope.data);
   });
   
 }]);
