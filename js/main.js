@@ -1,5 +1,21 @@
 var myApp = angular.module("myApp", []);
 
+// myApp.config(function($routeProvider) {
+// 	$routeProvider.when('/teams', {
+// 		templateUrl: 'views/teams.html',
+// 		controller: 'AllTeamsCtrl'
+// 	})
+// 	.when('/groups', {
+// 		templateUrl: 'groups.html',
+// 		controller: 'AllGroupsCtrl'
+// 	})
+// 	.when('/profile', {
+// 		templateUrl: 'profile.html',
+// 		controller: 'ProfileCtrl'
+// 	});
+// 	$routeProvider.otherwise({ redirectTo: '/' });
+// });
+
 myApp.controller("AllTeamsCtrl", ['$scope', '$http', '$window',
     function($scope, $http, $window) {
         $http({
