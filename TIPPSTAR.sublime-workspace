@@ -228,7 +228,7 @@
 			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 1616,
+				"buffer_size": 1515,
 				"line_ending": "Unix"
 			}
 		},
@@ -688,7 +688,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -703,8 +703,8 @@
 						"selection":
 						[
 							[
-								1398,
-								1398
+								1306,
+								1306
 							]
 						],
 						"settings":
@@ -733,6 +733,10 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -754,10 +758,12 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close"
 							],
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 395.0,
+						"translation.y": 251.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -767,15 +773,15 @@
 					"file": "js/main.js",
 					"settings":
 					{
-						"buffer_size": 1616,
+						"buffer_size": 1515,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								773,
-								773
+								324,
+								324
 							]
 						],
 						"settings":
@@ -824,10 +830,12 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 207.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -894,7 +902,9 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close"
 							],
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
